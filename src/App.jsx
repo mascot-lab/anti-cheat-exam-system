@@ -33,10 +33,10 @@ export function App() {
                 <MessageBarActions>
                     <Button
                         as="a"
-                        href="https://github.com/mascot-lab/anti-cheat-exam-system/releases/"
+                        href="https://www.microsoft.com/windows/end-of-support"
                         target="_blank"
                     >
-                        Action
+                        Learn more
                     </Button>
                 </MessageBarActions>
             </MessageBar>
@@ -51,7 +51,7 @@ export function App() {
                 <div className="buttonGroup">
                     <CompoundButton
                         as="a"
-                        href="https://github.com/mascot-lab/anti-cheat-exam-system/releases/"
+                        href="https://github.com/mascot-lab/anti-cheat-exam-system/releases"
                         target="_blank"
                         secondaryContent="Mascot Installer"
                         icon={<ArrowDownloadRegular />}
@@ -60,7 +60,7 @@ export function App() {
                     </CompoundButton>
                     <CompoundButton
                         as="a"
-                        href="https://apps.microsoft.com/detail/9P8KZRS8JBX3/"
+                        href="https://apps.microsoft.com/detail/9P8KZRS8JBX3"
                         target="_blank"
                         secondaryContent="from Microsoft Store"
                         appearance="primary"
