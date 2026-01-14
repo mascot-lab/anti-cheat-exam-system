@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/anti-cheat-exam-system/',
+  base: './',
   plugins: [react()],
   define: {
     global: 'globalThis',
@@ -13,6 +13,7 @@ export default defineConfig({
     target: 'es2020',
   }
 })
+
 
 
 
